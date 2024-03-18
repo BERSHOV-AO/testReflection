@@ -1,7 +1,7 @@
 import java.lang.reflect.Field;
 import java.lang.reflect.Modifier;
 
-public class Main {
+public class ReflectFields {
     public static void main(String[] args) throws IllegalAccessException {
         System.out.println("Hello reflect");
 
